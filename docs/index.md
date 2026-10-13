@@ -2,17 +2,13 @@
 layout: default
 ---
 
-You maintain a project. Lately something has been going wrong that has nothing to do with code —
-an argument that will not resolve, a contributor whose behaviour is hard to name, a pile-on that
-arrived from somewhere else, a governance question you did not know you were responsible for
-answering.
+Something is going wrong in your project and it has nothing to do with code — an argument that
+will not resolve, a contributor whose behaviour is hard to name, a pile-on that arrived from
+somewhere else. Nobody handed you a job description for this part; most of us learned it during
+the incident, in public.
 
-Nobody handed you a job description for this part. Most of us learned it during the incident, in
-public, while it was happening.
-
-We are a working group at the [Nivenly Foundation](https://nivenly.org/) writing down what we have
-learned so that the next person does not have to learn it that way. Our guidance lands in December
-2026. Until then, here is what already exists.
+We are a working group at the [Nivenly Foundation](https://nivenly.org/) writing that down. Our
+own guidance lands in December 2026. Until then, here is what already exists.
 
 ## If something is happening right now
 
