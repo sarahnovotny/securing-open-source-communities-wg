@@ -8,7 +8,7 @@ somewhere else. Nobody handed you a job description for this part; most of us le
 the incident, in public.
 
 We are a working group at the [Nivenly Foundation](https://nivenly.org/) writing that down. Our
-own guidance lands in December 2026. Until then, here is what already exists.
+own guidance is in draft, targeted for December 2026. Until then, here is what already exists.
 
 ## If something is happening right now
 
@@ -51,8 +51,8 @@ Two directions matter here, and they need different answers. One is someone acti
 from inside a community. The other is someone outside it using the community's own structures —
 its openness, its processes, its willingness to assume good faith — as the way in.
 
-We have also stopped calling this moderation. Moderation sounds like a role with a mute button,
-and in several languages it carries a strong flavour of policing a space and handing out sanctions.
+We are also moving away from calling this moderation. Moderation sounds like a role with a mute
+button, and in French it carries a strong flavour of policing a space and handing out sanctions.
 The more honest framing is that doing your work in public comes with expectations, most of which
 nobody wrote down. Some of those expectations can be met with **responsible friction** — friction
 placed deliberately where it helps: a slower path into authority, a documented way to raise a
@@ -79,8 +79,7 @@ different people:
 | Repair | Whoever handles an incident |
 
 It is built to scale. A two-person project and a foundation with fifty thousand contributors do not
-need the same thing, and the small end is a floor rather than a lesser version — a small project is
-welcome to take on more than its size asks of it.
+need the same thing, and the small end is a floor rather than a ceiling.
 
 Two commitments shape all of it:
 
@@ -99,9 +98,12 @@ working-group review, which is why this page describes its shape rather than pub
 ## Who's building this
 
 The Securing Open Source Communities Working Group is part of the
-[Nivenly Foundation](https://nivenly.org/). Our charter, operational agreement, code of conduct and
-contributor list are all in
-[the repository](https://github.com/nivenly/securing-open-source-communities-wg).
+[Nivenly Foundation](https://nivenly.org/). Our
+[charter](https://github.com/nivenly/securing-open-source-communities-wg/blob/main/README.md),
+[operational agreement](https://github.com/nivenly/securing-open-source-communities-wg/blob/main/OPERATIONS.md),
+[code of conduct](https://github.com/nivenly/securing-open-source-communities-wg/blob/main/CODE_OF_CONDUCT.md)
+and [contributor list](https://github.com/nivenly/securing-open-source-communities-wg/blob/main/CONTRIBUTORS.md)
+are all public, in [the repository](https://github.com/nivenly/securing-open-source-communities-wg).
 
 Membership is by invitation and the group is deliberately small, so that people can speak frankly
 about incidents they have handled. If you have taken an open source project through a governance
