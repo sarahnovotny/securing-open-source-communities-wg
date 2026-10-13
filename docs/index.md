@@ -44,3 +44,76 @@ actions it has taken. The Apache Software Foundation
 [scopes its private list](https://www.apache.org/dev/pmc.html) to an enumerated set of matters, so
 that using it for anything else is visibly out of bounds. Both are worth reading before writing
 your own.
+
+## What we think the problem is
+
+Open source security has well-funded attention on code: dependencies, signing, build provenance,
+supply chains. The communities that produce the code have had much less. A project can have
+reproducible builds and still come apart under a conflict nobody knew how to name.
+
+Two directions matter here, and they need different answers. One is someone acting in bad faith
+from inside a community. The other is someone outside it using the community's own structures —
+its openness, its processes, its willingness to assume good faith — as the way in.
+
+We have also stopped calling this moderation. Moderation sounds like a role with a mute button,
+and in several languages it carries a strong flavour of policing a space and handing out sanctions.
+The more honest framing is that doing your work in public comes with expectations, most of which
+nobody wrote down. Some of those expectations can be met with **responsible friction** — friction
+placed deliberately where it helps: a slower path into authority, a documented way to raise a
+concern, a decision that takes more than one person. Enough that acting in bad faith costs
+something, and not so much that contributing becomes miserable.
+
+## What we're building
+
+Phase 1 is communication norms: guidance a project can use to decide what to say, to whom, and in
+what measure, during a social crisis or a security event. It is about how to communicate rather
+than what to do. Phase 2 turns the same attention on governance patterns themselves, threat
+modelling and abuse testing the structures projects already run on.
+
+We reviewed the frameworks you would expect us to review and decided to write our own rather than
+endorse any one of them. Each carried failure modes under bad-faith use, or assumptions that do not
+travel well outside the anglosphere. What we are building instead has four layers, each aimed at
+different people:
+
+| Layer | Who it is for |
+|---|---|
+| Communication norms | Everyone who contributes |
+| Conflict assessment | Moderators and maintainers |
+| Governance structure | Leadership and governance bodies |
+| Repair | Whoever handles an incident |
+
+It is built to scale. A two-person project and a foundation with fifty thousand contributors do not
+need the same thing, and the small end is a floor rather than a lesser version — a small project is
+welcome to take on more than its size asks of it.
+
+Two commitments shape all of it:
+
+**Work with what is already there.** Every part of this asks a project to look at its existing
+practice before anything new gets introduced. Finding that you have none is useful information, not
+a failing grade.
+
+**Transparency of process, not content.** A project can be open about how it communicates and makes
+decisions without publishing every deliberation. Private space belongs in good governance when its
+scope is defined and its existence is public. Where neither is true, suspicion is a reasonable
+response.
+
+Phase 1 output is targeted for December 2026. It is in draft and has not yet been through full
+working-group review, which is why this page describes its shape rather than publishing it.
+
+## Who's building this
+
+The Securing Open Source Communities Working Group is part of the
+[Nivenly Foundation](https://nivenly.org/). Our charter, operational agreement, code of conduct and
+contributor list are all in
+[the repository](https://github.com/nivenly/securing-open-source-communities-wg).
+
+Membership is by invitation and the group is deliberately small, so that people can speak frankly
+about incidents they have handled. If you have taken an open source project through a governance
+crisis, or you work in security and want to lend that perspective, reach out to
+[Quintessence](https://github.com/quintessence).
+
+If you would rather just watch the work land, the repository is public.
+
+---
+
+*Content is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).*
